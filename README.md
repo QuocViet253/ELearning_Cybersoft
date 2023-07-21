@@ -3,5 +3,3 @@
 SVTH
 
 Doan Quoc Viet
-
-Vu Minh Tri
